@@ -99,7 +99,7 @@ USE_I18N = True
 USE_TZ = True
 
 
-STATIC_URL = "static/"
+STATIC_URL = "https://medias.gumiapps.com/static/"
 
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
